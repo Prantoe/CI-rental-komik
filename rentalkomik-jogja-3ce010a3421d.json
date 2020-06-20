@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rentalkomik-jogja",
+  "private_key_id": "3ce010a3421df98a33bcf9016e43e28c901b7d94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPUauvzI/XX7kQ\nPOmhJZ9u40CQ2+Wxa50o05+mxTKWqZGOWmVwGCmeQIil9OkvL/iLFNY0vO8yVEQB\nadwpXnlEwDm8vXStYR8AFeXc1vHkn/iGvNeZQRhcs8dlC613YiUJFbCrFPJkF6Rq\ns2Ip+3GyO5zSwkyBtz9tfpTejeaYdJaOqoZz+GSQr7u3Y8hk8AWGmAUPdfMF/uOu\ngT7lmgHMKAK8NFYiGJ1JnWQmSD8DW1zZ/oN6GMKfytxe0RPkNLavoV8HZzsnX2JM\n23Hp+vlv3vCkT2TpKcTaXpS4f2Qq3cr0a82/28zOF0HIYB41vFv6LBP3Mo2HqgIo\nM4zA13rBAgMBAAECggEAMWQ+OHhOTpvmDanNaVB6zuLCR6Cz9NR0ET11vDgf6MgG\nPvlnUFDZXXP3ej5CbbUKjCwPKmpWvFFaEFIlmw+AabI4LzCdww6v4YfWBwqIf5Tj\nE0qbPM5G3RMRro+dKKOPuj3aJLAtXU5KpAcPnHvkpvdP0eBrdL3xFQeCtRDufqRe\nNmYX7gLocrnbHBDSM80qoIsDmkJ3BBDCNjkkFuRAaAkDsJouMRwJxnkX/JyGTWP1\nx1Bye3vbFDqA/q7PGTGSNfqjJacS3c9WK1XYjuRcGHl91BZ7g0UK7E3AQcfEIE0g\nZm1cO4ICeA5LQReOZD0VJvUr4AZbpAJwErtSIaMAlwKBgQDw8Ds08H7TA5whhLoZ\nZFrglJ1bcL8nC0Vgq+D58t/avVDbhM38EU5sgt5Q2HDYMY7x5B2NgTLXFyw5mZxx\naIvhkuI0ZiNWzIoQ7Gmho+fSbK4pV6Y+MGkQxkBvEEg7ZQ8Je6QS2aMlbhovvQKZ\nObEcyg5cYzme0SeWAG1rmFsclwKBgQDcR2yREjrasRXmhduMP7F2JLCbe2mGm20c\nF6okkL0ZVoRj7dt9G4A4uFYd3BoJY08uj6ERlZkWSPgB0s8yIQLVAUDGfpFH+JWv\nYXovfW/+zcdnesLqgMR4q4IMHqTVh1vsLsOalbZvxlpkTip+w/6Q9nIgdd+jigR3\nbt54w1YWZwKBgQDmj1x46nLShq/Pu21CgzAbnNt/90JUoIqBWbjuNqZUcbmAd3ON\n9Rmw6QLJJnXFzJbXjs1g7fOytHATppV4SO0irSZdsie7FfxA+ZqTnX9nc6ytzzw8\nYqMH9E8QeOpGPAzJrFFz4GQom1XfvOVRr013GTvo2OL4wXk6J6qNvbvifQJ/XqZS\nAAPVRiLRRjw+GgVEO3+IY0akETK3r1p7wTpwBnMmb8nEhf1LGxQZ7LqmdWI2o8sT\nanrdTLYN2rq6TM/iZ6QiMSgxRLuLldBMsBs2BEZnaA9XsWujADaxqoOAUD/ZP6LY\naZPq0Bxquq7bk5yjxaYfY9NCRQMI6Ei7Tyif1QKBgQCBnPsLb/9S5a4JkIW8nKxx\n/UTxJcBRI2GXSl0rADt8dM4WX53z3yH9xDEJGMcVNyMlCnKRzfFIjSka0xnaZo05\nQ6TZj5j8Bg7lFciLukzDEbe4lHEMpUbf038q4kzrFsZssEMCLVSiAiPV8q5GcHCs\nyt/ohDaJiYtvxQgfompF0A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rentalkomik-jogja@appspot.gserviceaccount.com",
+  "client_id": "104818622540418871668",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rentalkomik-jogja%40appspot.gserviceaccount.com"
+}

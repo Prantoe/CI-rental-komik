@@ -1,0 +1,15 @@
+{
+    "name": "kuro/projectkomik",
+    "description": "rentalkomik-jogja",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Pranto suwarno",
+            "email": "suwarnopranto@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^4.18"
+    }
+}
